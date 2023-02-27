@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .boton-arriba {
   padding: 1rem;
-  background: rgba(232, 0, 0, 0.7);
+  background: rgba(74, 86, 255, 0.7);
   border-radius: 50%;
   font-size: 1rem;
   color: #fff;
@@ -217,8 +217,8 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .main .sobre-mi .contenedor-sobre-mi .texto {
   padding: 1.5rem 0;
-  background: #101010;
-  color: red;
+  background: #1b1133;
+  color: #f7c05a;
   font-family: monospace, Arial;
   width: 70%;
   min-height: 27.5rem;
@@ -237,7 +237,7 @@ h1, h2, h3, h4, h5, h6, p {
   margin-bottom: 1rem;
 }
 .main .sobre-mi .contenedor-sobre-mi .texto .descripcion {
-  color: grey;
+  color: rgb(255, 255, 255);
   font-weight: 100;
   line-height: 1.5;
 }
