@@ -19,7 +19,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #E80000;
+  background-color: #142f61;
   border-radius: 5px;
 }
 
@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .boton-arriba {
   padding: 1rem;
-  background: rgba(74, 86, 255, 0.7);
+  background: #142f61;
   border-radius: 50%;
   font-size: 1rem;
   color: #fff;
@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6, p {
   text-transform: uppercase;
 }
 .menu .contenedor-menu a:hover {
-  color: #c90c0f;
+  color: #142f61
 }
 .menu .idiomas {
   display: none;
@@ -217,7 +217,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .main .sobre-mi .contenedor-sobre-mi .texto {
   padding: 1.5rem 0;
-  background: #1b1133;
+  background: #061c25;
   color: #f7c05a;
   font-family: monospace, Arial;
   width: 70%;
