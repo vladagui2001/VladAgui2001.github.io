@@ -305,6 +305,12 @@ h1, h2, h3, h4, h5, h6, p {
 .main .proyectos .contenedor-proyectos .proyecto .info p .algolia{
   color: #004aac;
 }
+.main .proyectos .contenedor-proyectos .proyecto .info p .python{
+  color: #ffa600;
+}
+.main .proyectos .contenedor-proyectos .proyecto .info p .streamlit{
+  color: #ff1c1c;
+}
 
 .main .proyectos .contenedor-proyectos .proyecto .info .foto img {
   width: 100%;
